@@ -1,0 +1,2 @@
+# Minecraft Bedrock Server
+## What ?
